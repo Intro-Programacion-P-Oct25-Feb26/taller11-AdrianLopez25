@@ -1,0 +1,5 @@
+Para poder realizar el codigo primero requiere como dato de entrada
+un conjunto de numeros, el proceso principal que se debe realizar es un 
+recorrido de secuencial de cada posicion Durante este recorrido,lo analizamos en
+una funcion que evalúa si el número actual es divisible para dos; si se 
+cumple se almacena en una variable de texto y se imprime todos los valores. 

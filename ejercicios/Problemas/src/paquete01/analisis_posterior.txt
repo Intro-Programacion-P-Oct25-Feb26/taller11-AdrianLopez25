@@ -1,0 +1,5 @@
+Considero que la parte mas importante de todo el codigo son los ciclos ya que 
+este es el mecanismo que ayuda a que garantice el acceso a cada matriz, ya que
+sin esta condicion no podria detectar que numero es par y cual no, ademas la 
+acumulacion de una varible de tipo cadena para poder mostrar la salida de 
+manera concatenada.

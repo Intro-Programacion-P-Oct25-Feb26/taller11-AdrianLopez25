@@ -1,0 +1,5 @@
+El codigo primero requiere de dos conjuntos de datos que son los nombres de 10
+viviendas y el consumo electrico mensual durante el año, para esto se debe 
+utilizar un ciclo para poder almanacernar los datos del usuario en un arreglo 
+undimensional, tambien se debe usar otro ciclo repetitivo para capturar los 
+valores numericos.

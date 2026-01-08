@@ -1,0 +1,4 @@
+Al inicio cometí el error de no reiniciar la variable acumuladora (consumoAnual)
+dentro del primer ciclo for. Esto provocaba que el consumo de la segunda 
+vivienda incluyera también la suma de la primera.Lo corregí asegurándome de 
+declarar el valor de cero a variable (suma) justo antes de iniciar el recorrido.

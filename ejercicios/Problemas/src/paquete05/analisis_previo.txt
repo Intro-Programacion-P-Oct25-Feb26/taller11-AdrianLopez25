@@ -1,0 +1,4 @@
+En el programa requiere como datos de entrada dos matrices bidimensionales que
+esten definidas, para el proceso se debe primero crear un tercera matriz vacia
+en el cual debe ir sumando la primera matriz con la segunda siguiendo cada 
+posicion, y por ultimo presentar en pantalla la suma de las matrices.

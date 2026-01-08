@@ -10,5 +10,7 @@ package paquete05;
  * @author reroes
  */
 public class Problema5 {
+    int[][] informacion = {{1, 2, 3}, {10, 20, 30}, {100, 200, 300}};
+    int[][] informacion2 = {{1, 2, 3}, {10, 20, 30}, {100, 200, 300}};
     
 }

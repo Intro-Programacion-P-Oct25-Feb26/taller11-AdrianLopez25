@@ -1,0 +1,5 @@
+Para este codigo el usuario debe primero seleccionar un dato que servirá para 
+seleccionar las diferentes opciones, dependiendo de esta elección, el proceso 
+principal tomara a uno de tres procedimientos que el usuario elija y presentará 
+el resultado del cálculo del área directamente en pantalla, sin retornar valores
+al método principal.

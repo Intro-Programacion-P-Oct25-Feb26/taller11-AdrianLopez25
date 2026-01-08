@@ -1,0 +1,3 @@
+Aprendi que al usar procedimientos independientes que es necesario declarar
+e inicializar el objeto Scanner a cada funcion ya que estas estan separadas cada
+una cumple su funcion que se le da.

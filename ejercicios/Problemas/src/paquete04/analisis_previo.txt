@@ -1,0 +1,5 @@
+El programa primero debe iniciar pidiendo los datos del usuario y ademas que 
+elija una opcion para los diferentes tipos de tramites, el proceso principal 
+seria invocar el procedimiento enviando los datos como parametros para no volver
+a pedirlos, tambien se debe realizar operaciones artimeticas y al final generar
+un reporte con toda la informacion correspondiente.

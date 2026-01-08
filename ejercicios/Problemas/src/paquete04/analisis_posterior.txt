@@ -1,0 +1,4 @@
+Aqui lo mas importante se podria decir que fue en el momento de pedir los datos
+ya que estos se necesitaban en cada procedimiento, asi que por eso los pedi
+en el metodo main y asi pasarlos a los procedimientos como argumentos evitando 
+asi que vuelva a estar pidiendo los datos del usuario.

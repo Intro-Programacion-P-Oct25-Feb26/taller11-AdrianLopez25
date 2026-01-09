@@ -1,0 +1,5 @@
+En este problema nos da un arreglo que nos pide que encontremos la media y la 
+desviacion estandar, para eso hay que realizar dos funciones, la primera recorre
+todo para sumarlos y dividirlos por la cantidad total y retonar el promedio, la 
+segunda recibe el arreglo y el prmedio calculado,y por ultimo se determina la 
+variacion de cada numero.

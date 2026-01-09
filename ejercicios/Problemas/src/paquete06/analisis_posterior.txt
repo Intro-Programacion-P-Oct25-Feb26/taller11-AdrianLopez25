@@ -1,0 +1,3 @@
+Considero que la parte más importante de este codigo es la reutilización del 
+dato de la media. Ya que en lugar de volver a calcular el promedio dentro de la
+función de la desviación estándar, decidi que es mejor pasarlo como parámetro.

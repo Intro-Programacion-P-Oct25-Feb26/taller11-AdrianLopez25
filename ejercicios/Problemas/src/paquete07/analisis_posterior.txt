@@ -1,0 +1,5 @@
+Lo que más me hizo pensar fue cómo armar la condición del if. Al principio 
+quise usar el operador && (Y) porque pensaba: quiero las de 4 y las de 5. Pero
+analizando me di cuenta de que una palabra no puede tener 4 y 5 letras al mismo
+tiempo. Asi que observe que debía usar el operador lógico || (O) para que
+el codigo me entienda que sirve cualquiera de los dos tamaños.

@@ -1,0 +1,5 @@
+El codigo comienza solicitando al usuario la cantidad de ciudades que quiera 
+registrar para dimensionar dinámicamente un arreglo. Una función se encargara de
+capturar los nombres de estas ciudades por teclado y retornar la lista completa
+al método principal.Despues se invocara un procedimiento que recibe este arreglo
+y recorre cada elemento evaluando su longitud.

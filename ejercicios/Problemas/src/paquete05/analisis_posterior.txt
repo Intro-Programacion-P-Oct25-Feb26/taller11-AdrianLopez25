@@ -1,0 +1,3 @@
+Aprendí que las funciones no solo pueden devolver tipos de datos simples como el
+int o double, sino que también pueden devolver estructuras de datos completas,
+como un arreglo bidimensional.
